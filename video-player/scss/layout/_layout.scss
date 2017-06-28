@@ -1,0 +1,32 @@
+// ======================================
+//  Layout
+// ======================================
+body {
+    @include flexy($dir: column);
+    min-height: 100vh;
+}
+.wrapper {
+    @include center(100%);
+    flex: 1 0 auto;
+
+    @media ($brk-tablet) {
+        @include center (80%);
+    }
+}
+
+header {
+    @include flexy($just: space-between);
+    align-items: center;
+}
+
+.captions {
+    padding: 1em;
+    @media ($brk-tablet) {
+        padding: 2em;
+    }
+
+}
+
+footer {
+    text-align: center;
+}
