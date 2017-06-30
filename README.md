@@ -8,4 +8,4 @@ below the video, and should highlight as the video progresses.
 When a user clicks any part of the transcript it should take 
 them to the appropriate place in the video.
 
-Project supplied by Team Treehouse Front-End Wed Development TechDegree
+Project supplied by Team Treehouse Front-End Web Development TechDegree
