@@ -1,4 +1,4 @@
-# interactive-video-player-project-7
+# fewd-interactive-video-player-project-7
 Build an HTML5 video player using JavaScript and the HTML5 Video API.
 
 Using the supplied mockups, video files, and transcript, 
